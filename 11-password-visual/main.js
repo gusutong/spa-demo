@@ -1,0 +1,1 @@
+$(function(){var t=$('input[type="password"]'),o=$("span img");o.mouseover(function(){o.attr("src","images/pwdulook.png"),t.attr("type","text")}),o.mouseout(function(){o.attr("src","images/pwdlook.png"),t.attr("type","password")})});

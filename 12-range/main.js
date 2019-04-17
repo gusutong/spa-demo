@@ -1,0 +1,1 @@
+$(function(){var n=$('input[type="range"]'),t=$("#age");n.on("input",function(){t.text(n.val())})});
